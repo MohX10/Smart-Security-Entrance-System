@@ -1,4 +1,4 @@
-# Smart-Security-Entrance-System
+# Smart Security Entrance System
 
 ## Project Description 
 A secure entry system that checks for card ID and password; To check if someone is allowed to enter the building or not.
