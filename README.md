@@ -18,11 +18,11 @@ Technologies: ESP32, MFRC522 RFID Module, 16x2 I2C LCD, HC-SR04 Ultrasonic Dista
 - [Data Flow Diagram](Data%20Flow.pdf)
 - [Connection Diagram](Connection%20Diagram.pdf)
 - [Source Code](Smart%20Security%20Entrance%20System)
-- [Project Demonstration Video](Project%20Demonstration%20Video.mp4)
+- [Project Demonstration Video](https://drive.google.com/uc?export=download&id=1MyFA_vWvU5RKCwBh0gyla5I0EwESvrSR)
 
 ## How to use the project
 1- First of all here is the project link: 
 - [Project Link](https://wokwi.com/projects/467090006525030401)
 
 2- Then check the video to know how to use the project:
-- [Project Demonstration Video](Project%20Demonstration%20Video.mp4)
+- [Project Demonstration Video](https://drive.google.com/uc?export=download&id=1MyFA_vWvU5RKCwBh0gyla5I0EwESvrSR)
